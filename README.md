@@ -16,5 +16,5 @@ The Magento 2 ProxyPay Integration extension enables direct payment method. Cust
 * Allows admin to create a new order from the backend.
 * The module is compatible with ProxyPay API v2.
 
-For more information, visit : [https://meetanshi.com/magento-2-proxypay-integration.html](https://meetanshi.com/magento-2-proxypay-integration.html)
+For more information, visit : ***[https://meetanshi.com/magento-2-proxypay-integration.html](https://meetanshi.com/magento-2-proxypay-integration.html)***
 
